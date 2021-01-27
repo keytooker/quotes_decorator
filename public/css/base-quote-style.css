@@ -1,0 +1,68 @@
+.quote {
+	width: 100%;
+	height: auto;
+
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+	background: white;
+}
+
+.text {
+	font-family: 'Literata', sefif;
+	font-size: 18px;
+	padding-bottom: 10px;
+}
+
+.quote .author {
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+}
+
+.quote .author a {
+	text-decoration: none;
+	box-shadow: 0px;
+}
+
+.lightblue {
+	background: #68bcc3;
+	color: white;
+}
+
+.lightblue a {
+	color: white;
+}
+
+.darkblue {
+	background: #262e52;
+	color: white;
+}
+
+.darkblue a {
+	color: white;
+}
+
+.gray {
+	background: #eef0ef;
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
